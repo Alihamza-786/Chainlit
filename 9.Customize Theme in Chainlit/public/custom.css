@@ -1,0 +1,10 @@
+/* Force the login button to use blue instantly */
+button[type="submit"] {
+  background-color: hsl(217 91% 60%) !important;
+  border-color: hsl(217 91% 60%) !important;
+  color: hsl(0 0% 100%) !important;
+}
+
+.watermark {
+  display: none !important;
+}
