@@ -1,0 +1,3 @@
+https://ngrok.com/download/linux
+https://dashboard.ngrok.com/get-started/setup/linux
+https://dashboard.ngrok.com/get-started/your-authtoken
